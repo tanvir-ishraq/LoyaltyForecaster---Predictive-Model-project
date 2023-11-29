@@ -6,10 +6,10 @@ Hyperparameter-tuned Optimally engineered (95% score) machine learning model tha
 * Services Information 
 * Geographic Information <br>
 
-To summary,
+To summarize,
 * Developed an end-to-end machine learning pipeline for predicting customer retention/churn.
 * Heavily utilized statistical data science techniques to analyze and interpret complex datasets.
-* Built a robust Model that effectively identifies customers likely to leave, data analysis enabling proactive customer retention strategies.
+* Built a robust Model that effectively identifies customers likely to leave, Data Analysis enabling proactive customer retention strategies.
 
 <h2 align="center">Data science (Preprocessing & Data Analysis)</h2>
 
