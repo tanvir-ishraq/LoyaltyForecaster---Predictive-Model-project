@@ -1,7 +1,7 @@
 # LoyaltyForecaster - Predictive Model project
 End-to-end prediction model heavily using statistical data science covering the full machine learning pipleline. The project uses a lot of statistical data science techniques. The pipleline is procedurally documented with explanation step-by-step.
 
-Hyperparameter-tuned Optimally engineered machine learning model that predicts customer loyalty; based on <br>
+Hyperparameter-tuned Optimally engineered(95% score) machine learning model that predicts customer loyalty; based on <br>
 * Customer Account Information & Demographic <br>
 * Services Information 
 * Geographic Information <br>
